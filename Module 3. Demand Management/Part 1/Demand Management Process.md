@@ -1,0 +1,77 @@
+# Quy trình Quản trị Nhu cầu
+
+**Quản trị Nhu cầu - Demand Management** là bộ phận đóng vai trò nhận diện toàn bộ nhu cầu về hàng hóa và dịch vụ từ thị trường, đồng thời đóng vai trò điều tiết và cân bằng khi nhu cầu vượt mức khả năng cung ứng. Có ba bộ phận giữ vai trò quan trọng trong Quản trị nhu cầu, gồm:
+- **Quản trị Marketing** (Marketing Management)
+- **Quản trị Quan hệ Khách hàng** (Customer Relationship Management - CRM)
+- **Hoạch định Nhu cầu** (Demand Planning)
+
+## **1.1. Quản trị Marketing (Marketing Management)**
+
+**Vai trò cốt lõi:** Quản trị Marketing liên kết chặt chẽ với chiến lược Marketing (Marketing Strategy) và chiến lược kinh tổng thể của tổ chức, nhằm xác định chính xác những sản phẩm/dịch vụ thị trường thực sự cần và sử dụng các công cụ như quảng bá (advertising), giảm giá/chiết khấu (trade discounts) và sử dụng các ưu đãi cho đội ngũ bán hàng (sales force incentives) để kích cầu từ thị trường.
+
+Quản trị Marketing có khả năng **Điều tiết Cân bằng Cung - Cầu** khi nhu cầu vượt quá nguồn cung (hoặc ngược lại), họ có thể sử dụng các đòn bẩy như ***tăng/giảm giá bán hoặc thay đổi thời gian giao hàng (lead time)*** để điều hướng khách hàng sang các lựa chọn thay thế nhằm tái thiết lập sự cân bằng.
+**Ghi chú:** Khi bộ phận Marketing (demand-side) thực hiện cân bằng cung cầu khi dùng các đòn bẩy như tăng giá hay kéo dài thời gian giao hàng để cố gắng giảm nhu cầu của khách hàng xuống, họ sẽ đối mặt nhiều rủi ro và hạn chế như:
+- Gặp ***rào cản về giá**** các mặt hàng thông dụng (commodity), do không thể tự ý thay đổi giá hay thời gian giao hàng vì khách hàng cực kỳ nhạy cảm với những yếu tố này. 
+- Ngay cả khi thị trường cho phép, việc lạm dụng các đòn bẩy sẽ làm tăng ***rủi ro mất khách*** khi ép nhu cầu khách hàng phải khớp với khả năng cung ứng của công ty sẽ khiến họ bực bội và chuyển sang mua của đối thủ cạnh tranh.
+Do đó, phía Nhu cầu (demand-side) thường muốn ***đẩy áp lực sang bộ phận Cung ứng (Supply)***, họ ép bộ phận Sản xuất/Vận hành (bên cung ứng) thực hiện cân bằng cung-cầubằng cách: **hoạt động sản xuất linh hoạt hơn** (tăng ca, thêm người) hoặc **chấp nhận giữ nhiều hàng tồn kho hơn** để luôn có sẵn hàng bán.
+
+***=> Đây là xung đột nội bộ kinh điển: Sales luôn muốn chiều khách và có sẵn hàng, còn Operations lại phải gánh chi phí tồn kho và áp lực sản xuất.***
+
+ Công cụ cốt lõi để xác định, thúc đẩy nhu cầu Quản trị Marketing thường sử dụng là ***Marketing Mix*** (hay còn gọi là ***The 4Ps***), gồm các thành phần chính:
+
+| The 4 Ps                 | Chức năng                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Product (Sản phẩm)**   | Bao gồm việc thiết kế sản phẩm và dịch vụ để tạo ra sự kết hợp các tính năng nhằm giúp sản phẩm đạt tiêu chuẩn cơ bản (order qualifiers) và tạo ra các điểm khác biệt cạnh tranh giúp giành được đơn hàng (order winners). Các quyết định về sản phẩm cũng bao gồm việc chọn tên thương hiệu, sự đa dạng chủng loại, kích cỡ, phân cấp, chính sách đổi trả/bảo hành và các mức độ dịch vụ |
+| **Price (Giá cả)**       | Là việc xác định mức giá mang lại lợi nhuận cao nhất, dựa trên sự kết hợp tối ưu giữa biên lợi nhuận và số lượng sản phẩm bán ra tại mức giá đó. Các quyết định về giá cả còn bao gồm việc thiết lập các điều khoản tín dụng, chiết khấu thương mại và các khoản trợ cấp (ví dụ: bồi thường cho các vấn đề về chất lượng hoặc giao hàng)                                                  |
+| **Place (Phân phối)**    | Bao gồm việc quyết định nơi bán sản phẩm và thời gian giao hàng (lead times) sẽ cung cấp cho khách hàng. Việc này đòi hỏi lựa chọn kênh bán hàng (trực tuyến hay cửa hàng bán lẻ), thiết lập chính sách hàng tồn kho cho mạng lưới phân phối và xác định các phương thức giao hàng cân bằng giữa tốc độ, tính linh hoạt và độ tin cậy                                                     |
+| **Promotion (Xúc tiến)** | Tập trung vào các hoạt động khuyến mãi bán hàng, quảng cáo, chính sách ưu đãi cho nhân viên bán hàng hoặc nhà bán lẻ, quản lý các chiến dịch và quan hệ công chúng                                                                                                                                                                                                                        |
+
+
+**Phân tích Chi phí - Khối lượng - Lợi nhuận (CVP Analysis):** 
+- Đây là quá trình hợp tác giữa bộ phận Marketing và bộ phận Vận hành để phân tích cách thức chi phí cố định (fixed costs) và chi phí biến đổi (variable costs) tương tác với nhau.
+- Mục đích cốt lõi của CVP là giúp tổ chức tìm ra sự kết hợp tối ưu giữa **giá bán** (sales price) và **khối lượng bán** (sales volume) nhằm đạt được mức lợi nhuận cao nhất.
+- Phân tích này giúp tổ chức đánh giá rủi ro lợi nhuận hoặc thua lỗ khi đưa ra các chính sách thay đổi về giá.
+
+**2. Điểm hòa vốn (Break-even point)**
+- **Định nghĩa:** Là mức sản lượng sản xuất hoặc khối lượng bán hàng mà tại đó hoạt động kinh doanh không sinh lời nhưng cũng không bị lỗ. Trên đồ thị, nó chính là điểm giao nhau giữa đường Tổng doanh thu (Total sales revenue curve) và đường Tổng chi phí (Total cost curve).
+
+<img width="442" height="293" alt="break_even_point" src="https://github.com/user-attachments/assets/d66201b1-3e21-4a16-8039-d96683b75614" />
+
+
+- **Công thức:** 
+
+$$\text{Break-Even in Units} = \frac{\text{Fixed Cost}}{\text{Price per Unit - Variable Cost per Unit}}$$
+
+- **Ý nghĩa:** Khi doanh số bán ra vượt qua điểm hòa vốn, tổ chức bắt đầu ghi nhận lợi nhuận; ngược lại, nếu nằm dưới điểm hòa vốn, tổ chức sẽ phải chịu khoản lỗ.
+- **Ứng dụng:** Dựa vào CVP và điểm hòa vốn, Marketing có thể linh hoạt đưa ra các chiến lược như định giá thâm nhập thị trường (market penetration pricing - bán giá thấp, chấp nhận biên lợi nhuận mỏng để nhanh chiếm thị phần) hoặc định giá hớt váng (price skimming - đặt giá rất cao khi thị trường chưa có đối thủ rồi giảm dần).
+
+## **1.2. Quản trị Quan hệ Khách hàng (CRM) và Quản lý Đơn hàng (Order Management)**
+
+**1/ Quản trị Quan hệ Khách hàng (CRM)**
+**Khái niệm:** CRM là một triết lý marketing luôn đặt khách hàng lên hàng đầu (customer first). Quá trình này bao gồm việc thu thập và phân tích thông tin để hỗ trợ các quyết định bán hàng và marketing, qua đó thấu hiểu và đáp ứng tốt nhất các nhu cầu của khách hàng hiện tại và khách hàng tiềm năng.
+
+**Mục tiêu:** Mục tiêu lớn nhất của CRM là ***duy trì và nuôi dưỡng lòng trung thành*** của khách hàng, từ đó trực tiếp giúp doanh nghiệp gia tăng thị phần. Khách hàng gắn bó càng lâu thì càng mang lại nhiều lợi nhuận, bởi vì chi phí marketing bỏ ra ban đầu sẽ được khấu hao và phân bổ hiệu quả qua nhiều lần mua hàng sau này.
+
+**2. Quản lý Đơn hàng (Order Management)**
+
+**Khái niệm:** Quản lý đơn hàng là một cấu phần quan trọng của Quản trị Quan hệ Khách hàng (CRM). Chức năng này thường được tích hợp chặt chẽ với các phần mềm kinh doanh (như hệ thống ERP), từ đó nhân sự có thể truy cập và xem toàn bộ lịch sử tương tác với khách hàng thông qua phần mềm. 
+
+Hoạt động của Hệ thống quản lý đơn hàng gồm **Bốn nghiệp vụ cốt lõi:**
+
+| Nghiệp vụ                                                | Đặc điểm/ Nhiệm vụ                                                                                                                                                                                                                                                                                                                                                                  |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Nhập và theo dõi đơn hàng (Order entry and tracking)** | Đòi hỏi độ chính xác cao và thông tin phải luôn sẵn sàng khi khách hàng có nhu cầu tra cứu. Việc giảm thiểu thời gian nhập đơn hàng sẽ trực tiếp giúp rút ngắn thời gian giao hàng (lead times).                                                                                                                                                                                    |
+| **Hẹn giao hàng (Order promising)**                      | Hệ thống quản lý đơn hàng liên kết với ERP để trích xuất dữ liệu tồn kho hoặc tiến độ sản xuất thực tế. Từ đó, tổ chức có thể đưa ra cam kết chính xác về số lượng và ngày giao hàng, giúp thiết lập kỳ vọng thực tế cho khách hàng.                                                                                                                                                |
+| **Dịch vụ khách hàng (Customer service)**                | Xử lý các câu hỏi, khiếu nại, đồng thời trực tiếp ủy quyền/phê duyệt các hoạt động đổi trả hàng hoặc sửa chữa.                                                                                                                                                                                                                                                                      |
+| **Tài liệu và báo cáo (Documentation and reporting)**    | - Phát hành các hồ sơ điện tử hoặc giấy tờ như chứng từ vận chuyển, hóa đơn, và đơn đặt hàng.<br>- Trường hợp sản xuất nội bộ hoặc sản xuất theo đơn đặt hàng, bộ phận này sẽ chuyển thông tin đến người lập lịch trình chính (master planner) để ủy quyền lập kế hoạch sản xuất.<br>- Lưu trữ và báo cáo các thông tin về lịch sử bán hàng, lịch sử dịch vụ khách hàng và kế toán. |
+## **1.3. Hoạch định Nhu cầu (Demand Planning)**
+
+**1. Định nghĩa**
+- Hoạch định nhu cầu là quá trình kết hợp giữa các kỹ thuật d***ự báo thống kê (statistical forecast)*** và các ***đánh giá chủ quan (judgment)*** để xây dựng các ước tính về nhu cầu cho sản phẩm hoặc dịch vụ. Quá trình này xem xét và ước tính nhu cầu trên toàn bộ chuỗi cung ứng, trải dài từ nguyên vật liệu nhà cung cấp cho đến nhu cầu của người tiêu dùng cuối.
+- Về cơ bản, quá trình này xoay quanh hai hoạt động chính là ***lập dự báo (forecasting)*** và ***theo dõi dự báo (forecast tracking)***. Ngoài ra, Hoạch định nhu cầu có nhiệm vụ nhân diện tất cả nguồn nhu cầu thực tế, bao gồm từ ***nội bộ*** (ví dụ: các nhà máy khác, công ty con, trung tâm phân phối nội bộ) và từ ***khách hàng bên ngoài*** (nhà bán buôn, nhà bán lẻ, người tiêu dùng)
+
+**2. Phạm vi và Cách thức hoạt động**
+- Nhu cầu có thể được tổng hợp (aggregated) theo nhiều tiêu chí như nhóm sản phẩm, vị trí địa lý, hoặc vòng đời sản phẩm.
+- Tiến hành thử nghiệm nhiều mô hình dự báo khác nhau và kết hợp chúng với ý kiến đánh giá dựa trên thực tiễn từ các bộ phận như marketing, bán hàng, nhà phân phối, và kho bãi.
+
+**3. Mục tiêu cốt lõi**: liên tục so sánh doanh số thực tế (actual sales) với các số liệu dự báo (forecast) để tìm ra mô hình dự báo tốt nhất giữa các phương pháp tính toán và đánh giá chủ quan, qua đó **giảm thiểu tối đa sai số dự báo (minimize forecast error)**.
