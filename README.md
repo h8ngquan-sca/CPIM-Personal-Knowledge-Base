@@ -29,5 +29,7 @@ This repository documents my structured learning journey as I prepare for the **
 **MODULE 8: Quality, Technology, and Continuous Improvement**
 
 
+## 🔄 Current Status: Active & Evolving (Living Knowledge Base)
+I am actively studying and updating these notes on a weekly basis as I progress through the CPIM learning modules. 
 
-> *"Failing to plan is planning to fail." - Alan Lakein*
+Content here is continuously refined, restructured, and expanded to reflect my growing understanding of supply chain planning frameworks.
