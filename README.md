@@ -1,6 +1,6 @@
-# 📦 APICS CPIM - Personal Knowledge Repository
+# 📦 APICS/ASCM CPIM - Personal Knowledge Repository
 
-Welcome to my personal notes for Supply Chain Planning! 🎯
+Welcome to my personal notes for APICS/ASCM CPIM! 🎯
 
 This repository documents my structured learning journey as I prepare for the **APICS CPIM (Certified in Planning and Inventory Management)** exam. Instead of just highlighting textbooks, I use this space to synthesize concepts, build frameworks, and organize my knowledge systematically.
 
